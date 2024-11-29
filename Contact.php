@@ -4,13 +4,13 @@
   <form class="contact-form">
       <span class="social-links">
           <a href="https://www.linkedin.com/in/nozhan-alinaghi-31437026a/" target="_blank">
-             <img src="image/Linkedin.png" alt="LinkedIn" class="link-contact-logo">
+             <img src="partials/image/Linkedin.png" alt="LinkedIn" class="link-contact-logo">
           </a>
           <a href="https://github.com/Nojan0727" target="_blank">
-             <img src="image/github.png" alt="GitHub" class="link-contact-logo">
+             <img src="partials/image/github.png" alt="GitHub" class="link-contact-logo">
           </a>
           <a href="http://wa.me/" target="_blank">
-              <img src="image/Whatsapp.png" alt="WhatsApp" class="link-contact-logo">
+              <img src="partials/image/Whatsapp.png" alt="WhatsApp" class="link-contact-logo">
           </a>
       </span>
 

@@ -19,10 +19,5 @@
     <a class="nav-link" href="Interview.php">Interview</a>
     <a class="nav-link" href="Thoughts.php">Thoughts</a>
     <a class="nav-link" href="Contact.php">Contact</a>
-    <label class="lan-select" for="language-selector"><select id="language-selector" class="nav-dropdown">
-            <option value="en">English</option>
-            <option value="nl">Dutch</option>
-        </select>
-    </label>
     <button id="dark-mode-toggle" class="toggleDarkMode" onclick="toggleDarkMode()">🌙</button>
 </nav>

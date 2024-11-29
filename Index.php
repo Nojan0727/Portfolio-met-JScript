@@ -16,6 +16,3 @@
     <a href="Contact.php" class="act-button">Let’s Collaborate</a>
     <a href="Professional_Experience.php" class="act-button">Milestones</a>
 </div>
-
-</body>
-</html>
