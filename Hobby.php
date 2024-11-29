@@ -9,15 +9,15 @@
      </head>
 <body class="body-background">
      <nav class="navbar">
-        <a class="nav-link" href="Index.html"><img src="image/Logo.png" alt="Logo" class="nav-logo"></a>
-        <a class="nav-link" href="About_me.html">About me</a>
-        <a class="nav-link" href="Professional_Experience.html">Professional experiences</a>
-        <a class="nav-link" href="Skills.html">Skills</a>
-        <a class="nav-link active" href="Hobby.html">Hobby</a>
-        <a class="nav-link" href="Certifications.html">Certifications</a>
-        <a class="nav-link" href="Interview.html">Interview</a>
-        <a class="nav-link" href="Thoughts.html">Thoughts</a>
-        <a class="nav-link" href="Contact.html">Contact</a>
+        <a class="nav-link" href="Index.php"><img src="image/Logo.png" alt="Logo" class="nav-logo"></a>
+        <a class="nav-link" href="About_me.php">About me</a>
+        <a class="nav-link" href="Professional_Experience.php">Professional experiences</a>
+        <a class="nav-link" href="Skills.php">Skills</a>
+        <a class="nav-link active" href="Hobby.php">Hobby</a>
+        <a class="nav-link" href="Certifications.php">Certifications</a>
+        <a class="nav-link" href="Interview.php">Interview</a>
+        <a class="nav-link" href="Thoughts.php">Thoughts</a>
+        <a class="nav-link" href="Contact.php">Contact</a>
      </nav>
 <main class="hobby-layout">
   <section class="hobby-text">
