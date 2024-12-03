@@ -31,5 +31,3 @@
     <input type="submit" value="Submit">
   </form>
 </header>
-</body>
-</html>
