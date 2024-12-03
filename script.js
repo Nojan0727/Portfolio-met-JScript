@@ -1,8 +1,9 @@
 console.log("Current Path: ", window.location.pathname);
 checkDarkMode();
-if (window.location.pathname === "/" || window.location.pathname === "/index.html") {
+if (window.location.pathname === "/" || window.location.pathname === "/header.php") {
     closeCookieBanner();
 }
+document.getElementById("dark-mode-toggle").addEventListener("mouseover", toggleDarkMode)
 function toggleDarkMode() {
     let body = document.body;
     let darkModeButton = document.getElementById("dark-mode-toggle");

@@ -10,7 +10,7 @@
 <body class="body-background">
 
 <nav class="navbar">
-    <a class="nav-link" href="Index.php"><img src="image/Logo.png" alt="Logo" class="nav-logo"></a>
+    <a class="nav-link" href="Index.php"><img src="partials/image/Logo.png" alt="Logo" class="nav-logo"></a>
     <a class="nav-link" href="About_me.php">About me</a>
     <a class="nav-link" href="Professional_Experience.php">Professional experiences</a>
     <a class="nav-link" href="Skills.php">Skills</a>
@@ -19,5 +19,5 @@
     <a class="nav-link" href="Interview.php">Interview</a>
     <a class="nav-link" href="Thoughts.php">Thoughts</a>
     <a class="nav-link" href="Contact.php">Contact</a>
-    <button id="dark-mode-toggle" class="toggleDarkMode" onclick="toggleDarkMode()">🌙</button>
+    <button id="dark-mode-toggle" class="toggleDarkMode">🌙</button>
 </nav>
