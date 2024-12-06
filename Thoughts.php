@@ -6,5 +6,3 @@
            <p class="text-paragraph">A reflection on my career shift, the challenges I faced, and how it shaped my perspective on professional growth and adaptability.</p>
       </div>
 
-</body>
-</html>

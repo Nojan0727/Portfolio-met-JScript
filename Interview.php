@@ -12,5 +12,3 @@
           <h2 class="Interview-heading"> What challenges did you face during your project?</h2>
            <p class="text-paragraph">Making CSS grid work, trying to get the form information to go into a text document, and ensuring I didn't use unnecessary div elements.</p>
      </div>
-</body>
-</html>

@@ -1,9 +1,12 @@
 <?php require "partials/header.php" ?>
+<header>
+
+</header>
 <div class="cookies-wall" id="cookie-wall">
     <h2> cookie melding</h2>
     <p>LET OP"</p>
     <p>Lees goed voordat je de cookie accepteert, er is hierna geen weg meer terug</p>
-    <p>door dit koekje te accepteren, laat je me je nier weghalen als je me niet terugbetaalt. zodat ik hem kan verkopen op de zwarte markt. 🙂</p>
+    <p>door dit koekje te accepteren, Na het accepteren van deze cookie ga je met mij samenwerken en verlaat je deze website niet zonder contact met mij op te nemen. 🙂</p>
     <button onclick="acceptCookies()" class="act-button"> Accepteer</button>
     <button onclick="closeCookieBanner()" class="act-button">Verwijder</button>
 </div>

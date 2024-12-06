@@ -146,7 +146,44 @@ nav {
     display: flex;
     align-items: center;
     font-size: 20px;
+    color: whitesmoke;
 }
+.mobile-nav {
+    display: none;
+
+}
+
+.hamburger-menu{
+    background: linear-gradient(135deg,rgba(0, 0, 0, 0.8),#f06d06,rgba(0, 0, 0, 0.8) );
+    padding: 8px;
+    border-radius: 30px;
+    position: absolute;
+    right: 10px;
+    display: none;
+}
+@media screen and (max-width: 600px) {
+    .navbar {
+        display: none;
+    }
+nav ul li a {
+    color: white;
+}
+    .mobile-nav{
+        display: block;
+        margin-left: -500px;
+        transition: all 500ms;
+    }
+
+    .show-mobile-nav{
+        margin-left: 0;
+        transition: all 500ms;
+    }
+
+    .hamburger-menu{
+        display: block;
+    }
+}
+
 .container-center{
     margin-top: 150px;
     color: whitesmoke;
@@ -254,5 +291,9 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 , body.dark-mode a, body
     margin-left: 25%;
     border-radius: 30px;
 }
-
-
+.greeting-message {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #D8D9D7;
+    margin: 10px 0;
+}
