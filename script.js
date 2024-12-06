@@ -60,10 +60,11 @@ function setGreeting() {
     }
 }
 setGreeting();
-
 function toggleMenu() {
     document.getElementById("mobile-nav").classList.toggle("show-mobile-nav");
+    console.log("HamburgerMenu")
 }
+
 
 
 
