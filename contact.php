@@ -13,7 +13,6 @@
               <img src="partials/image/Whatsapp.png" alt="WhatsApp" class="link-contact-logo">
           </a>
       </span>
-
     <label for="name">Name</label>
     <input type="text" id="name" placeholder="Enter your name" required>
       <label for="last name"></label>
@@ -31,3 +30,4 @@
     <input type="submit" value="Submit">
   </form>
 </header>
+<?php require "partials/bottom.php" ?>

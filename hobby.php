@@ -12,3 +12,4 @@
     <iframe class="video-frame" src="https://youtube.com/embed/mJ8ITMci2Gw" allowfullscreen></iframe>
   </section>
 </main>
+<?php require "partials/bottom.php" ?>

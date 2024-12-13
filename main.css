@@ -313,3 +313,19 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 , body.dark-mode a, body
     margin-top: 10px;
     color: #f06d06;
 }
+
+    #footer {
+        text-align: center;
+        padding: 10px;
+        background: linear-gradient(135deg,rgba(0, 0, 0, 1),#303030,rgba(0, 0, 0, 1) );
+        color: #D8D9D7;
+        font-size: 14px;
+        bottom: auto 0;
+        width: 100%;
+        z-index: 100;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    #footer p {
+        margin: 0;
+    }

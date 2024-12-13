@@ -19,3 +19,4 @@
         <li class="text-listed-item"> Provided IT support and solutions for clients and end users such as Abbott, Medtronic, Levi, Lumen, Denka International B.V., and Honeywell B.V. My role involved troubleshooting, technical support, and contributing to system integrations and process improvements.</li>
         </ul>
     </div>
+<?php require "partials/bottom.php" ?>

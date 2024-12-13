@@ -5,4 +5,4 @@
            <h2 class="second-heading">My Transition from Accounting to IT</h2>
            <p class="text-paragraph">A reflection on my career shift, the challenges I faced, and how it shaped my perspective on professional growth and adaptability.</p>
       </div>
-
+<?php require "partials/bottom.php" ?>

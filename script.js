@@ -85,9 +85,15 @@ function startCountdown() {
         }
     }, 1000);
 }
-
 startCountdown();
+function setCurrentYear() {
+    var currentYear = new Date().getFullYear();
+    document.getElementById("year").textContent = currentYear.toString();
+}
 
+document.addEventListener("DOMContentLoaded", function () {
+    setCurrentYear();
+});
 
 
 

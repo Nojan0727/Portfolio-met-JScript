@@ -48,3 +48,4 @@
     </tr>
   </table>
 </div>
+<?php require "partials/bottom.php" ?>

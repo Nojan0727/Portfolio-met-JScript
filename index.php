@@ -23,3 +23,4 @@
     <a href="contact.php" class="act-button">Let’s Collaborate</a>
     <a href="professional_Experience.php" class="act-button">Milestones</a>
 </div>
+<?php require "partials/bottom.php" ?>

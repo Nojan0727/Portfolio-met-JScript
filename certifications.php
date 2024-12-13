@@ -8,3 +8,4 @@
     <h2 class="second-heading"> Software development</h2>
        <p class="text-paragraph"> I am currently pursuing a Software Developer program. </p>
 </div>
+<?php require "partials/bottom.php" ?>
