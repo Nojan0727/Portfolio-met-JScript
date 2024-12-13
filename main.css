@@ -297,3 +297,19 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 , body.dark-mode a, body
     color: #D8D9D7;
     margin: 10px 0;
 }
+.countdown {
+    text-align: center;
+    margin-top: 50px;
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#countdown-timer {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #f06d06;
+}
