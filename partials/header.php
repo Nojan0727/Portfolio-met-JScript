@@ -8,7 +8,7 @@
     <script defer src="script.js"></script>
 </head>
 <body class="body-background">
-<button class="hamburger-menu" onclick="toggleMenu()">Hamburger</button>
+<button class="hamburger-menu" onclick="toggleMenu()">Menu</button>
 
 <nav class="navbar" id="myDIV">
     <a class="nav-link" href="index.php"><img src="partials/image/Logo.png" alt="Logo" class="nav-logo"></a>

@@ -187,6 +187,7 @@ nav ul li a {
 .container-center{
     margin-top: 150px;
     color: whitesmoke;
+    min-height: 100vh;
     .main-heading {
         font-size: 40px;
         margin-bottom: 20px;
@@ -281,14 +282,7 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 , body.dark-mode a, body
     color: #63BDB5;
 }
 .cookies-wall{
-    max-width: 50%;
-    max-height: 600px;
     background-color: #A69E94;
-    padding: 8em;
-    position: fixed;
-    top: 50%;
-    margin-top: -250px;
-    margin-left: 25%;
     border-radius: 30px;
 }
 .greeting-message {
@@ -328,4 +322,5 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 , body.dark-mode a, body
 
     #footer p {
         margin: 0;
+
     }
